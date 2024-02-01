@@ -40,7 +40,7 @@ public class Assignment2Application {
             Logger.getLogger(Assignment2Application.class.getName()).log(
                     Level.SEVERE,
                     null, ex);
-            System.out.println("error in getDogFact");
+            System.out.println("error in getAnimeQuote");
 
         }
     }
